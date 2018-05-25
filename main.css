@@ -1,0 +1,181 @@
+body{
+        background-color: #f9f9f9;
+}
+    
+#top-image{
+    position:relative;
+}
+
+.wrapper p{
+    position:absolute;
+    width:100%;
+    color:white;
+    text-align: center;
+}
+
+#toptext1{
+    
+    top:25%;
+    font-weight: 600;
+    font-size: 42px;
+    font-family:san-serif; 
+}
+
+#toptext2{
+    top:37%;
+    font-size: 27px;
+    font-weight: 100;
+}
+
+
+.cardhero {
+    position: relative;
+    top: -100px;
+    max-width: 81%;
+    margin:0 auto;
+    padding: 5% 15%;
+    border: 1px solid #f0f0f0;
+    border-radius: 12px;
+    background-color: #fff;
+    box-shadow: 0 8px 5px 0 #e9f0f3;
+}
+
+.cardhero h4{
+    font-weight: 700;
+    margin-bottom: 20px;
+    font-size:30px;
+}
+.cardhero p{
+    line-height: 32px;
+    font-weight: 400;
+    font-size: 20px;
+    color:grey;
+}
+
+#project{
+    margin-bottom: 100px;
+}
+#project h4{
+   text-align: center;
+   color:#7ec8b6;
+   font-weight: 400; 
+    font-size: 20px;
+}
+#project p{
+    text-align: center;
+    font-weight: 400;
+    color:black; 
+    font-size:35px;
+    margin-bottom: 60px; 
+}
+
+.proj-imgright{
+   padding-top: 190px;
+    max-width: 60%;
+    margin:20px 0px 30px 30px;
+}
+
+.proj-imgleft{
+   padding-top: 190px;
+    max-width: 60%;
+    margin:20px 30px 30px 0px;
+}
+
+.proj-logo{
+    width: 110px; 
+    margin-left:-10px;
+}
+
+h5{
+    font-weight: 300;
+    font-size: 17px;
+    margin-top: 20px;
+}
+h4{
+    text-align: left;
+    font-weight: 400;
+    font-size:21px;
+    margin-bottom:20px
+}
+
+.case-text{
+    text-align: justify;
+    margin-top: 20px;
+    font-family:sans-serif;
+    color:#767676;
+    font-size:18px;
+    
+}
+
+.lightgray{
+    color:#767676;
+    font-weight: 300;
+}
+
+.proj-item{
+    margin-bottom: 200px;
+}
+
+#furnshow{
+    background-image: url(resources/2016a-img.jpg);
+    color:white;
+    text-align: justify; 
+    padding:100px;
+}
+
+#furnshow h5{
+    text-align: center;
+}
+
+#furnshow h4{
+    text-align: center;
+}
+#furnshow p{
+    color:white;
+}
+
+#goldshow{
+    color:white;
+    text-align: center; 
+    padding:100px;
+    background-color: lightyellow;
+}
+
+#goldshow p{
+    text-align: justify; 
+}
+
+#goldshow h4{
+    text-align: center;
+}
+
+#community{
+    background-color: #343434;
+    color:white;
+    text-align: center;
+    padding:80px 130px;
+/*
+    position: relative;
+    top: -100px;
+*/
+}
+
+#contact{
+    background-color: #80689D;
+    padding:100px;
+}
+
+.upper{
+    text-align: center;
+    margin-bottom: 120px;
+}
+.upper p{
+    max-width: 300px;
+    margin:0 auto;
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+
+.lower div{
+    padding-left: 40px;
+}
